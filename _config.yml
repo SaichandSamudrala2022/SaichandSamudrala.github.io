@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Saichand Samudrala"
 description              : &description "PhD Student at TAMU"
 url                      : https://saichandsamudrala2022.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/SaichandSamudrala.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "SaichandSamudrala2022/SaichandSamudrala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
