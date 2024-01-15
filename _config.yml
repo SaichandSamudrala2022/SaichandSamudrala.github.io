@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kundan Kumar"
+title                    : "Saichand Samudrala"
 title_separator          : "-"
-name                     : &name "Kundan Kumar"
-description              : &description "PhD Student at IISc"
-url                      : https://kkumar1729.github.io/
+name                     : &name "Saichand Samudrala"
+description              : &description "PhD Student at TAMU"
+url                      : https://SaichandSamudrala.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Kkumar1729/kkumar1729.github.io"
+repository               : "SaichandSamudrala2022/SaichandSamudrala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kundan Kumar"
-  avatar           : "profile.png"
-  bio              : "PhD Student at IISc"
-  location         : "Bengaluru"
+  name             : "Saichand Samudrala"
+  avatar           : "Profile.png"
+  bio              : "PhD Student at TAMU"
+  location         : "Texas, USA"
   employer         :  
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.in/citations?user=PZKYwGEAAAAJ&hl=en"
-  email            : "kundankumar@ieee.org"
-  researchgate     :  "https://www.researchgate.net/profile/Kundan-Kumar-25"
+  googlescholar    : "https://scholar.google.com/citations?user=QmYOnBkAAAAJ&hl=en&oi=ao"
+  email            : "saichands@tamu.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Saichand-Samudrala"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kundan153"
-  orcid            : "https://orcid.org/0000-0003-2705-0174"
+  linkedin         : "https://www.linkedin.com/in/saichand-samudrala/"
+  orcid            : # "https://orcid.org/0000-0003-2705-0174"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
