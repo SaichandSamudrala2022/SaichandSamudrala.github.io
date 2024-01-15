@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Indian Institute of Science, Banglore. My research areas include Low power techniques for IC Designs, Neuromorphic computing and Deep learning. I have submitted my Ph.D. thesis titled “Energy-efficient Hardware and Algorithmic Techniques for Design of Low-power Intelligent Systems”. 
-I am an avid traveler, pursuing numismatics, philately, and historical and artifacts collections as a hobby.
+I am a Ph.D. student in Computer Engineering at the SETH lab, Texas A&M University, College Station, USA. My research areas include Hardware security, Hardware accelerators and Computer architecture. I received an M.Tech. in Microelectronics and VLSI Design from the Indian Institute of Science, Bangalore, in 2021 and worked in Nvidia, Hyderabad, India, as an ASIC engineer from 2021-2022.
