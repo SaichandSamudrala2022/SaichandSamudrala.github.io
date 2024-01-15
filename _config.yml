@@ -11,7 +11,7 @@ title                    : "Saichand Samudrala"
 title_separator          : "-"
 name                     : &name "Saichand Samudrala"
 description              : &description "PhD Student at TAMU"
-url                      : https://SaichandSamudrala.github.io
+url                      : https://saichandsamudrala2022.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SaichandSamudrala2022/SaichandSamudrala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Saichand Samudrala"
-  avatar           : "Profile.png"
+  avatar           : "Saichand_Photo.jpg"
   bio              : "PhD Student at TAMU"
   location         : "Texas, USA"
   employer         :  
