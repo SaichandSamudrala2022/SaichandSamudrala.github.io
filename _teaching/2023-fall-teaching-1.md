@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Digital System Design"
+title: "ECEN-248 Introduction to Digital System Design"
 collection: teaching
 type: "under graduate course"
 permalink: /teaching/2023-fall-teaching-1
