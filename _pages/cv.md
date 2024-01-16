@@ -41,11 +41,11 @@ Skills
 #  {% endfor %}</ul>
 -->
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -57,7 +57,7 @@ Service and leadership
 ======
 
 1. Volunteered for the Big Event, Texas A&M University Mar 2023 <br>
-2. Class representative of M.Tech Microelectronics and VLSI batch, IISc, Banglore, 2019-2021 <br>
+2. Class representative of M.Tech Microelectronics and VLSI batch, IISc, Bengaluru, 2019-2021 <br>
 
   
 Member of Academic Society
