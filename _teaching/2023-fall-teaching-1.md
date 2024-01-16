@@ -2,7 +2,7 @@
 title: "Introduction to Digital System Design"
 collection: teaching
 type: "under graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-1
 venue: "TAMU, Department of Electrical and Computer Engineering"
 date: 2023-08-21 & 2023-12-05
 location: "Texas, USA"
